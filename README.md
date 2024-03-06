@@ -6,9 +6,9 @@
 ---
 
 ### Índice
-- [Introdução]()
-- [Organização do Repositório]()
-- [Como Contribuir]()
+- [Introdução](https://github.com/scriptprivate/acervo-computacao?tab=readme-ov-file#introdu%C3%A7%C3%A3o)
+- [Organização do Repositório](https://github.com/scriptprivate/acervo-computacao?tab=readme-ov-file#organiza%C3%A7%C3%A3o-do-reposit%C3%B3rio)
+- [Como Contribuir](https://github.com/scriptprivate/acervo-computacao?tab=readme-ov-file#como-contribuir)
 
 ---
 
